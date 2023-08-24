@@ -13,7 +13,6 @@
 <li fr-original-style="" style="box-sizing: border-box;">Настроена возможность “хождения” по сайту с клавиатуры. Это значит, что все интерактивные элементы доступны пользователю с клавиатуры, следовательно, они видны пользователю при фокусе.</li>
 <li fr-original-style="" style="box-sizing: border-box;">Реализовать возможность пользоваться сайтом с помощью скринридера NVDA, каждый элемент “звучит” корректно и понятно.  </li>
 <li fr-original-style="" style="box-sizing: border-box;">Сайт проверен на кроссбраузерность.   </li>
-<li fr-original-style="" style="box-sizing: border-box;">Сайт проверен на кроссбраузерность.   </li>
 <li fr-original-style="" style="box-sizing: border-box;"> Для просмотра изображений на главной странице добавлен слайдер </li>
 <li fr-original-style="" style="box-sizing: border-box;"> Для просмотра удобной навигации по шагам в секции "Как мы работаем" реализованы табы </li>
 <li fr-original-style="" style="box-sizing: border-box;"> В секции Часто задаваемые вопросы был реализован аккардеон с вопросами и ответами </li>
@@ -26,5 +25,5 @@
 
 ## Ссылки проекта
 
-<p fr-original-style="" style="margin-top: 0px; margin-bottom: 12px; color: var(--ui-sb-color-text-main); box-sizing: border-box; font-size: 16px; line-height: 22px;">Ссылка для просмотра <br/> «<a fr-original-style="" href="https://gusevanadezhda.github.io./Evklid/" rel="noopener noreferrer" style="user-select: auto; text-decoration: none; box-sizing: border-box;" target="_blank"> сайта Евклид</a>» </p>
+<p fr-original-style="" style="margin-top: 0px; margin-bottom: 12px; color: var(--ui-sb-color-text-main); box-sizing: border-box; font-size: 16px; line-height: 22px;">Ссылка для просмотра <a fr-original-style="" href="https://gusevanadezhda.github.io./Evklid/" rel="noopener noreferrer" style="user-select: auto; text-decoration: none; box-sizing: border-box;" target="_blank"> сайта Евклид</a> <br/> https://gusevanadezhda.github.io./Evklid/</p>
 
