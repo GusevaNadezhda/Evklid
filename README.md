@@ -14,6 +14,7 @@
 <li fr-original-style="" style="box-sizing: border-box;">Реализовать возможность пользоваться сайтом с помощью скринридера NVDA, каждый элемент “звучит” корректно и понятно.  </li>
 <li fr-original-style="" style="box-sizing: border-box;">Сайт проверен на кроссбраузерность.   </li>
 <li fr-original-style="" style="box-sizing: border-box;"> На мобильной и планшетных версиях сайта меню навигации перемещено в бургер меню </li>
+<li fr-original-style="" style="box-sizing: border-box;"> При нажатии на лупу открывается удобное поле ввода данных для поиска </li>
 <li fr-original-style="" style="box-sizing: border-box;"> Для просмотра изображений на главной странице добавлен слайдер </li>
 <li fr-original-style="" style="box-sizing: border-box;"> Для просмотра удобной навигации по шагам в секции "Как мы работаем" реализованы табы </li>
 <li fr-original-style="" style="box-sizing: border-box;"> В секции Часто задаваемые вопросы был реализован аккардеон с вопросами и ответами </li>
